@@ -131,3 +131,7 @@ dmypy.json
 
 # git files
 .gitignore
+
+
+# DB Files
+*.db
